@@ -1,0 +1,24 @@
+{
+  "name": "Webpack-Project",
+  "version": "1.0.0",
+  "description": "A project utilizing Webpack and Babel.",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akakioussis/Webpack-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akakioussis/Webpack-Project/issues"
+  },
+  "homepage": "https://github.com/akakioussis/Webpack-Project#readme",
+  "devDependencies": {
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.8"
+  }
+}
